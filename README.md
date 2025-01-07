@@ -21,8 +21,7 @@ Once installed, you'll be able to:
 
 - Browse through **50 coding-related stories** that explore pivotal moments in technology.
 - Solve **50 coding challenges** of varying difficulty, from beginner to expert.
-- Get inspired with **tech trivia** and anecdotes from the world of programming.
-
+  
 ## Contributing
 
 Feel free to contribute by submitting issues, pull requests, or suggestions. We welcome additional stories and coding challenges!
