@@ -6,7 +6,6 @@ HackTales is a Chrome extension that brings you captivating coding stories and e
 
 - **50 Coding Stories**: Learn about iconic coding moments, infamous bugs, and tech milestones. From the creation of Linux to the Y2K bug, dive deep into tech history.
 - **50 Coding Challenges**: Test your skills with challenges that cover a wide range of programming topics. Solve problems like unit conversion, build a web service, or create a recommendation system.
-- **Daily Tech Inspiration**: Stay motivated and learn new things every day through tech stories and coding exercises.
 
 ## Installation
 
