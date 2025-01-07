@@ -31,3 +31,8 @@ Feel free to contribute by submitting issues, pull requests, or suggestions. We 
 ## License
 
 Distributed under the MIT License. See [LICENSE](https://github.com/Relacosm/HackTales/blob/main/LICENSE) for more information.
+
+## Acknowledgements
+
+- Thanks to all the contributors who make this project possible.
+- Special thanks to the creators of the libraries and frameworks that help power this tool.
