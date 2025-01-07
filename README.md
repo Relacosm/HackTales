@@ -30,4 +30,4 @@ Feel free to contribute by submitting issues, pull requests, or suggestions. We 
 
 ## License
 
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Relacosm/HackTales/blob/main/LICENSE) for more information.
