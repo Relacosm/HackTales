@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="nav-container">
+    <button id="view-stories" class="nav-button active">Stories</button>
+    <button id="view-challenges" class="nav-button">Challenges</button>
+  </div>
+
+  <div id="stories-container" class="content-container active">
+    <div class="story-card">
+      <div class="header">
+        <h3 id="story-title">Loading...</h3>
+        <div class="nav-controls">
+          <button id="prev-story" class="nav-arrow">←</button>
+          <button id="next-story" class="nav-arrow">→</button>
+        </div>
+      </div>
+      <p id="story-content"></p>
+      <div class="resources">
+        <h4>Read More:</h4>
+        <div id="story-links"></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="challenges-container" class="content-container">
+    <div class="challenge-card">
+      <div class="header">
+        <h3 id="challenge-title">Loading...</h3>
+        <div class="nav-controls">
+          <button id="prev-challenge" class="nav-arrow">←</button>
+          <button id="next-challenge" class="nav-arrow">→</button>
+        </div>
+      </div>
+      <div class="difficulty"></div>
+      <p id="challenge-content"></p>
+      <div class="resources">
+        <h4>Solution Resources:</h4>
+        <div id="challenge-links"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
